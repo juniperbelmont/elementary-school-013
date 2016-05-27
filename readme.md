@@ -1,6 +1,6 @@
 # Vaadin Elementary School 013
 
-Source code for [Vaadin Elementary School 013](TBD), showing you how to install and use `<vaadin-upload>` to upload a file or files.
+Source code for [Vaadin Elementary School 013](https://www.youtube.com/playlist?list=PLcRrh9hGNalkkFVlWM8NI4anTdldL7MFb), showing you how to install and use `<vaadin-upload>` to upload a file or files.
 
 ## Running
 
