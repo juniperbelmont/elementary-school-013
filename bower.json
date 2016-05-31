@@ -14,5 +14,11 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "dependencies": {
+    "vaadin-upload": "^1.0.0"
+  },
+  "devDependencies": {
+    "mock-http-request": "philikon/MockHttpRequest#master"
+  }
 }

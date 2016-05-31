@@ -6,7 +6,8 @@ gulp.task('serve', function() {
     server: {
       baseDir: 'app',
       routes: {
-        '/bower_components': 'bower_components'
+        '/bower_components': 'bower_components',
+        '/src': 'src'
       }
     }
   });
