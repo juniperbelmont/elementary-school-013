@@ -12,11 +12,21 @@
     }
   </style>
   <link rel="import" href="../src/demo.html">
+  <script src="bower_components/webcomponentsjs/webcomponents-lite.min.js">
+  </script>
+
+  <link rel="import" href="bower_components/vaadin-upload/vaadin-upload.html">
 
 </head>
 
 <body>
   <h1>Vaadin Elementary School</h1>
+  <vaadin-upload
+    target="https://www.example.com/images/upload"
+    method="POST"
+    accept=".png"
+    headers="{'X-Header': 'value'}">
+  </vaadin-upload>
 
 </body>
 
